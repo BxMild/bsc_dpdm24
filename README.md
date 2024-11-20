@@ -1,4 +1,5 @@
 # bsc_dpdm24
+653020211-6 ปีย์รดา ภู่ถนนนอก
 SIDS KKU Data Preparation and Data Mining
 
 Grading Top25% A : B+ - D ตามเกณฑ์
